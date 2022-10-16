@@ -1,0 +1,2951 @@
+[
+  {
+      "_id": "6349c6432772ab2f3fefb70f",
+      "title": "Smile (V) (2022)",
+      "releaseState": "30 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjE2ZWIwMWEtNGFlMy00ZjYzLWEzOWEtYzQ0MDAwZDRhYzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "115",
+      "plot": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
+      "imDbRating": "6.9",
+      "genres": "Horror",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb710"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm1788739",
+              "name": "Sosie Bacon",
+              "_id": "6349c6432772ab2f3fefb711"
+          },
+          {
+              "id": "nm1900772",
+              "name": "Jessie T. Usher",
+              "_id": "6349c6432772ab2f3fefb712"
+          },
+          {
+              "id": "nm0973177",
+              "name": "Kyle Gallner",
+              "_id": "6349c6432772ab2f3fefb713"
+          },
+          {
+              "id": "nm0917848",
+              "name": "Robin Weigert",
+              "_id": "6349c6432772ab2f3fefb714"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm6475689",
+              "name": "Parker Finn",
+              "_id": "6349c6432772ab2f3fefb715"
+          }
+      ],
+      "favorite": true,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb716",
+      "title": "Bullet Train",
+      "releaseState": "05 Aug 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "127",
+      "plot": "Five assassins aboard a swiftly-moving bullet train to find out that their missions have something in common.",
+      "imDbRating": "7.4",
+      "genres": "Action, Comedy, Thriller",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb717"
+          },
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb718"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb719"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000093",
+              "name": "Brad Pitt",
+              "_id": "6349c6432772ab2f3fefb71a"
+          },
+          {
+              "id": "nm1428821",
+              "name": "Joey King",
+              "_id": "6349c6432772ab2f3fefb71b"
+          },
+          {
+              "id": "nm1093951",
+              "name": "Aaron Taylor-Johnson",
+              "_id": "6349c6432772ab2f3fefb71c"
+          },
+          {
+              "id": "nm3109964",
+              "name": "Brian Tyree Henry",
+              "_id": "6349c6432772ab2f3fefb71d"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0500610",
+              "name": "David Leitch",
+              "_id": "6349c6432772ab2f3fefb71e"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb71f",
+      "title": "Don't Worry Darling (I) (2022)",
+      "releaseState": "23 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFkMWUzM2ItZWFjMi00NDY0LTk2MDMtZDhkMDE2MjRlYmZlXkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "123",
+      "plot": "A 1950s housewife living with her husband in a utopian experimental community begins to worry that his glamorous company could be hiding disturbing secrets.",
+      "imDbRating": "6.3",
+      "genres": "Drama, Thriller",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb720"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb721"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm6073955",
+              "name": "Florence Pugh",
+              "_id": "6349c6432772ab2f3fefb722"
+          },
+          {
+              "id": "nm4089170",
+              "name": "Harry Styles",
+              "_id": "6349c6432772ab2f3fefb723"
+          },
+          {
+              "id": "nm1517976",
+              "name": "Chris Pine",
+              "_id": "6349c6432772ab2f3fefb724"
+          },
+          {
+              "id": "nm1312575",
+              "name": "Olivia Wilde",
+              "_id": "6349c6432772ab2f3fefb725"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1312575",
+              "name": "Olivia Wilde",
+              "_id": "6349c6432772ab2f3fefb726"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb727",
+      "title": "Amsterdam",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQwNzE0ZTItYmZjMC00NjI3LWFlNzctNTExZDY2NWE0Zjc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "134",
+      "plot": "In the 1930s, three friends witness a murder, are framed for it, and uncover one of the most outrageous plots in American history.",
+      "imDbRating": "6.2",
+      "genres": "Comedy, Drama, History",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb728"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb729"
+          },
+          {
+              "key": "History",
+              "value": "History",
+              "_id": "6349c6432772ab2f3fefb72a"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000288",
+              "name": "Christian Bale",
+              "_id": "6349c6432772ab2f3fefb72b"
+          },
+          {
+              "id": "nm3053338",
+              "name": "Margot Robbie",
+              "_id": "6349c6432772ab2f3fefb72c"
+          },
+          {
+              "id": "nm0913475",
+              "name": "John David Washington",
+              "_id": "6349c6432772ab2f3fefb72d"
+          },
+          {
+              "id": "nm0005273",
+              "name": "Alessandro Nivola",
+              "_id": "6349c6432772ab2f3fefb72e"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0751102",
+              "name": "David O. Russell",
+              "_id": "6349c6432772ab2f3fefb72f"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb730",
+      "title": "Bros (I) (2022)",
+      "releaseState": "30 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI4MDg3NDEtOTg1OC00MDdjLWEzY2QtMmFmMWNlNTcxZDIxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.7943_AL_.jpg",
+      "runtimeMins": "115",
+      "plot": "Two men with commitment problems attempt a relationship.",
+      "imDbRating": "6.9",
+      "genres": "Comedy, Romance",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb731"
+          },
+          {
+              "key": "Romance",
+              "value": "Romance",
+              "_id": "6349c6432772ab2f3fefb732"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm2813994",
+              "name": "Billy Eichner",
+              "_id": "6349c6432772ab2f3fefb733"
+          },
+          {
+              "id": "nm1682832",
+              "name": "Luke Macfarlane",
+              "_id": "6349c6432772ab2f3fefb734"
+          },
+          {
+              "id": "nm1502218",
+              "name": "Guy Branum",
+              "_id": "6349c6432772ab2f3fefb735"
+          },
+          {
+              "id": "nm5851871",
+              "name": "Miss Lawrence",
+              "_id": "6349c6432772ab2f3fefb736"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0831557",
+              "name": "Nicholas Stoller",
+              "_id": "6349c6432772ab2f3fefb737"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb738",
+      "title": "Top Gun: Maverick",
+      "releaseState": "27 May 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "130",
+      "plot": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+      "imDbRating": "8.4",
+      "genres": "Action, Drama",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb739"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb73a"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000129",
+              "name": "Tom Cruise",
+              "_id": "6349c6432772ab2f3fefb73b"
+          },
+          {
+              "id": "nm0000124",
+              "name": "Jennifer Connelly",
+              "_id": "6349c6432772ab2f3fefb73c"
+          },
+          {
+              "id": "nm1886602",
+              "name": "Miles Teller",
+              "_id": "6349c6432772ab2f3fefb73d"
+          },
+          {
+              "id": "nm0000174",
+              "name": "Val Kilmer",
+              "_id": "6349c6432772ab2f3fefb73e"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2676052",
+              "name": "Joseph Kosinski",
+              "_id": "6349c6432772ab2f3fefb73f"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb740",
+      "title": "The Woman King",
+      "releaseState": "16 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I4MDIwYWUtOWMxNC00ZTIzLWE3OGYtOWUyMmIwZGE2NjU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.7943_AL_.jpg",
+      "runtimeMins": "135",
+      "plot": "A historical epic inspired by true events that took place in The Kingdom of Dahomey, one of the most powerful states of Africa in the 18th and 19th centuries.",
+      "imDbRating": "6.6",
+      "genres": "Action, Drama, History",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb741"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb742"
+          },
+          {
+              "key": "History",
+              "value": "History",
+              "_id": "6349c6432772ab2f3fefb743"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0205626",
+              "name": "Viola Davis",
+              "_id": "6349c6432772ab2f3fefb744"
+          },
+          {
+              "id": "nm9096847",
+              "name": "Thuso Mbedu",
+              "_id": "6349c6432772ab2f3fefb745"
+          },
+          {
+              "id": "nm2736476",
+              "name": "Lashana Lynch",
+              "_id": "6349c6432772ab2f3fefb746"
+          },
+          {
+              "id": "nm5956547",
+              "name": "Sheila Atim",
+              "_id": "6349c6432772ab2f3fefb747"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0697656",
+              "name": "Gina Prince-Bythewood",
+              "_id": "6349c6432772ab2f3fefb748"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb749",
+      "title": "Jeepers Creepers: Reborn",
+      "releaseState": "19 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2E0YzMwZjEtMjllNC00OGY2LTg2NDEtZjE4MzQ4YzY2OTQ3XkEyXkFqcGdeQXVyODE5MDk4NjI@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "88",
+      "plot": "Forced to travel with her boyfriend, Laine begins to experience premonitions associated with the urban myth of The Creeper. She believes that something supernatural has been summoned - and that she is at the center of it all.",
+      "imDbRating": "2.4",
+      "genres": "Horror, Mystery, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb74a"
+          },
+          {
+              "key": "Mystery",
+              "value": "Mystery",
+              "_id": "6349c6432772ab2f3fefb74b"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb74c"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0334048",
+              "name": "Gary Graham",
+              "_id": "6349c6432772ab2f3fefb74d"
+          },
+          {
+              "id": "nm0908914",
+              "name": "Dee Wallace",
+              "_id": "6349c6432772ab2f3fefb74e"
+          },
+          {
+              "id": "nm1993322",
+              "name": "Timo Vuorensola",
+              "_id": "6349c6432772ab2f3fefb74f"
+          },
+          {
+              "id": "nm10458635",
+              "name": "Imran Adams",
+              "_id": "6349c6432772ab2f3fefb750"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1993322",
+              "name": "Timo Vuorensola",
+              "_id": "6349c6432772ab2f3fefb751"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb752",
+      "title": "Barbarian",
+      "releaseState": "09 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "102",
+      "plot": "A woman staying at an Airbnb discovers that the house she has rented is not what it seems.",
+      "imDbRating": "7.6",
+      "genres": "Horror, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb753"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb754"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm3569284",
+              "name": "Georgina Campbell",
+              "_id": "6349c6432772ab2f3fefb755"
+          },
+          {
+              "id": "nm0803889",
+              "name": "Bill Skarsgård",
+              "_id": "6349c6432772ab2f3fefb756"
+          },
+          {
+              "id": "nm0519043",
+              "name": "Justin Long",
+              "_id": "6349c6432772ab2f3fefb757"
+          },
+          {
+              "id": "nm1830723",
+              "name": "Matthew Patrick Davis",
+              "_id": "6349c6432772ab2f3fefb758"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1199107",
+              "name": "Zach Cregger",
+              "_id": "6349c6432772ab2f3fefb759"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb75a",
+      "title": "Halloween Ends",
+      "releaseState": "14 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTg1Y2Q3MzctMDlkOS00OGE1LWE4MjUtNmJjNDNkZmM2YmVkXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "111",
+      "plot": "The saga of Michael Myers and Laurie Strode comes to a spine-chilling climax in this final installment of this trilogy.",
+      "imDbRating": "5.6",
+      "genres": "Horror, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb75b"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb75c"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000130",
+              "name": "Jamie Lee Curtis",
+              "_id": "6349c6432772ab2f3fefb75d"
+          },
+          {
+              "id": "nm0724202",
+              "name": "Kyle Richards",
+              "_id": "6349c6432772ab2f3fefb75e"
+          },
+          {
+              "id": "nm5506858",
+              "name": "Andi Matichak",
+              "_id": "6349c6432772ab2f3fefb75f"
+          },
+          {
+              "id": "nm0001599",
+              "name": "Will Patton",
+              "_id": "6349c6432772ab2f3fefb760"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0337773",
+              "name": "David Gordon Green",
+              "_id": "6349c6432772ab2f3fefb761"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb762",
+      "title": "Pearl",
+      "releaseState": "16 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTFkNmE5MjUtZDE1Yi00ZmQyLTk2YWUtN2EwODA1ZmNlOTA5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "103",
+      "plot": "Backstory on how Pearl became the person she was.",
+      "imDbRating": "7.5",
+      "genres": "Horror",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb763"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm5301405",
+              "name": "Mia Goth",
+              "_id": "6349c6432772ab2f3fefb764"
+          },
+          {
+              "id": "nm4825178",
+              "name": "David Corenswet",
+              "_id": "6349c6432772ab2f3fefb765"
+          },
+          {
+              "id": "nm12559937",
+              "name": "Emma Jenkins-Purro",
+              "_id": "6349c6432772ab2f3fefb766"
+          },
+          {
+              "id": "nm4592485",
+              "name": "Alistair Sewell",
+              "_id": "6349c6432772ab2f3fefb767"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1488800",
+              "name": "Ti West",
+              "_id": "6349c6432772ab2f3fefb768"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb769",
+      "title": "DC League of Super-Pets",
+      "releaseState": "29 Jul 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIyNzc3NzMtNGE5YS00Yjg5LTk5MDMtOTUxMzk1ZTBkOTgwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6794_AL_.jpg",
+      "runtimeMins": "105",
+      "plot": "Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, Krypto must master his own powers for a rescue mission when Superman is kidnapped.",
+      "imDbRating": "7.4",
+      "genres": "Animation, Action, Adventure",
+      "genreList": [
+          {
+              "key": "Animation",
+              "value": "Animation",
+              "_id": "6349c6432772ab2f3fefb76a"
+          },
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb76b"
+          },
+          {
+              "key": "Adventure",
+              "value": "Adventure",
+              "_id": "6349c6432772ab2f3fefb76c"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0425005",
+              "name": "Dwayne Johnson",
+              "_id": "6349c6432772ab2f3fefb76d"
+          },
+          {
+              "id": "nm0366389",
+              "name": "Kevin Hart",
+              "_id": "6349c6432772ab2f3fefb76e"
+          },
+          {
+              "id": "nm0571952",
+              "name": "Kate McKinnon",
+              "_id": "6349c6432772ab2f3fefb76f"
+          },
+          {
+              "id": "nm1024677",
+              "name": "John Krasinski",
+              "_id": "6349c6432772ab2f3fefb770"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2972864",
+              "name": "Jared Stern",
+              "_id": "6349c6432772ab2f3fefb771"
+          },
+          {
+              "id": "nm0505946",
+              "name": "Sam J. Levine",
+              "_id": "6349c6432772ab2f3fefb772"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb773",
+      "title": "Ponniyin Selvan: Part I",
+      "releaseState": "01 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjZlNGRhNTQtZTY1Ni00MjdhLWJhYjEtN2NkMjVmNTAwMjZmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "167",
+      "plot": "Vandiyathevan sets out to cross the Chola land to deliver a message from the Crown Prince Aditha Karikalan. Kundavai attempts to establish political peace as vassals and petty chieftains plot against the throne. Unrest grips the land as a long-tailed comet arrives, signalling a time of turmoil.",
+      "imDbRating": "8.4",
+      "genres": "Action, Drama, Family",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb774"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb775"
+          },
+          {
+              "key": "Family",
+              "value": "Family",
+              "_id": "6349c6432772ab2f3fefb776"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm1417314",
+              "name": "Vikram",
+              "_id": "6349c6432772ab2f3fefb777"
+          },
+          {
+              "id": "nm1912683",
+              "name": "Karthi",
+              "_id": "6349c6432772ab2f3fefb778"
+          },
+          {
+              "id": "nm1865947",
+              "name": "Jayam Ravi",
+              "_id": "6349c6432772ab2f3fefb779"
+          },
+          {
+              "id": "nm0706787",
+              "name": "Aishwarya Rai Bachchan",
+              "_id": "6349c6432772ab2f3fefb77a"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0711745",
+              "name": "Mani Ratnam",
+              "_id": "6349c6432772ab2f3fefb77b"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb77c",
+      "title": "Avatar",
+      "releaseState": "18 Dec 2009",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA3NGExZDktNDlhZC00NjYyLTgwNmUtZWUzMDYwMTZjZWUyXkEyXkFqcGdeQXVyMTU1MDM3NDk0._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "162",
+      "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "imDbRating": "7.8",
+      "genres": "Action, Adventure, Fantasy",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb77d"
+          },
+          {
+              "key": "Adventure",
+              "value": "Adventure",
+              "_id": "6349c6432772ab2f3fefb77e"
+          },
+          {
+              "key": "Fantasy",
+              "value": "Fantasy",
+              "_id": "6349c6432772ab2f3fefb77f"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0941777",
+              "name": "Sam Worthington",
+              "_id": "6349c6432772ab2f3fefb780"
+          },
+          {
+              "id": "nm0757855",
+              "name": "Zoe Saldana",
+              "_id": "6349c6432772ab2f3fefb781"
+          },
+          {
+              "id": "nm0000244",
+              "name": "Sigourney Weaver",
+              "_id": "6349c6432772ab2f3fefb782"
+          },
+          {
+              "id": "nm0735442",
+              "name": "Michelle Rodriguez",
+              "_id": "6349c6432772ab2f3fefb783"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0000116",
+              "name": "James Cameron",
+              "_id": "6349c6432772ab2f3fefb784"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb785",
+      "title": "Nope",
+      "releaseState": "22 Jul 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGM1MDc3ZjgtODlkOS00NmZjLWJlOTItNGQ5OGFhN2JlNjgxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.7943_AL_.jpg",
+      "runtimeMins": "130",
+      "plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+      "imDbRating": "6.9",
+      "genres": "Horror, Mystery, Sci-Fi",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb786"
+          },
+          {
+              "key": "Mystery",
+              "value": "Mystery",
+              "_id": "6349c6432772ab2f3fefb787"
+          },
+          {
+              "key": "Sci-Fi",
+              "value": "Sci-Fi",
+              "_id": "6349c6432772ab2f3fefb788"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm2257207",
+              "name": "Daniel Kaluuya",
+              "_id": "6349c6432772ab2f3fefb789"
+          },
+          {
+              "id": "nm1551130",
+              "name": "Keke Palmer",
+              "_id": "6349c6432772ab2f3fefb78a"
+          },
+          {
+              "id": "nm5155952",
+              "name": "Brandon Perea",
+              "_id": "6349c6432772ab2f3fefb78b"
+          },
+          {
+              "id": "nm0000699",
+              "name": "Michael Wincott",
+              "_id": "6349c6432772ab2f3fefb78c"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1443502",
+              "name": "Jordan Peele",
+              "_id": "6349c6432772ab2f3fefb78d"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb78e",
+      "title": "Terrifier 2",
+      "releaseState": "06 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc5YWQ2MzAtM2E3Yi00MDUyLWFiYzctMzQ5NWVkMmQ0OTcxXkEyXkFqcGdeQXVyMTU2MDk3MDQz._V1_Ratio0.6794_AL_.jpg",
+      "runtimeMins": "138",
+      "plot": "After being resurrected by a sinister entity, Art the Clown returns to the timid town of Miles County where he targets a teenage girl and her younger brother on Halloween night.",
+      "imDbRating": "7.5",
+      "genres": "Horror",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb78f"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm3957052",
+              "name": "Jenna Kanell",
+              "_id": "6349c6432772ab2f3fefb790"
+          },
+          {
+              "id": "nm8367841",
+              "name": "Lauren LaVera",
+              "_id": "6349c6432772ab2f3fefb791"
+          },
+          {
+              "id": "nm7476686",
+              "name": "David Howard Thornton",
+              "_id": "6349c6432772ab2f3fefb792"
+          },
+          {
+              "id": "nm3313554",
+              "name": "Catherine Corcoran",
+              "_id": "6349c6432772ab2f3fefb793"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2093171",
+              "name": "Damien Leone",
+              "_id": "6349c6432772ab2f3fefb794"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb795",
+      "title": "See How They Run",
+      "releaseState": "16 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU5OTNmZDYtZjA4OC00YmQyLTk4ZjctMzVlZTYyYTE3ODUwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "98",
+      "plot": "In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered.",
+      "imDbRating": "6.7",
+      "genres": "Comedy, Mystery",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb796"
+          },
+          {
+              "key": "Mystery",
+              "value": "Mystery",
+              "_id": "6349c6432772ab2f3fefb797"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm5407472",
+              "name": "Kieran Hodgson",
+              "_id": "6349c6432772ab2f3fefb798"
+          },
+          {
+              "id": "nm6112124",
+              "name": "Pearl Chanda",
+              "_id": "6349c6432772ab2f3fefb799"
+          },
+          {
+              "id": "nm0185045",
+              "name": "Gregory Cox",
+              "_id": "6349c6432772ab2f3fefb79a"
+          },
+          {
+              "id": "nm6170168",
+              "name": "Harris Dickinson",
+              "_id": "6349c6432772ab2f3fefb79b"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm3437361",
+              "name": "Tom George",
+              "_id": "6349c6432772ab2f3fefb79c"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb79d",
+      "title": "Halloween",
+      "releaseState": "27 Oct 1978",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "91",
+      "plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+      "imDbRating": "7.7",
+      "genres": "Horror, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb79e"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb79f"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000587",
+              "name": "Donald Pleasence",
+              "_id": "6349c6432772ab2f3fefb7a0"
+          },
+          {
+              "id": "nm0000130",
+              "name": "Jamie Lee Curtis",
+              "_id": "6349c6432772ab2f3fefb7a1"
+          },
+          {
+              "id": "nm0602985",
+              "name": "Tony Moran",
+              "_id": "6349c6432772ab2f3fefb7a2"
+          },
+          {
+              "id": "nm0477341",
+              "name": "Nancy Kyes",
+              "_id": "6349c6432772ab2f3fefb7a3"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0000118",
+              "name": "John Carpenter",
+              "_id": "6349c6432772ab2f3fefb7a4"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7a5",
+      "title": "Lyle, Lyle, Crocodile",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjNhZjA3MTctOTFjNi00Mjg5LTk3ODctOGZkNDMyMjY3YWNhXkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "106",
+      "plot": "Feature film based on the children's book about a crocodile that lives in New York City.",
+      "imDbRating": "6.4",
+      "genres": "Animation, Adventure, Comedy",
+      "genreList": [
+          {
+              "key": "Animation",
+              "value": "Animation",
+              "_id": "6349c6432772ab2f3fefb7a6"
+          },
+          {
+              "key": "Adventure",
+              "value": "Adventure",
+              "_id": "6349c6432772ab2f3fefb7a7"
+          },
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb7a8"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm2090422",
+              "name": "Constance Wu",
+              "_id": "6349c6432772ab2f3fefb7a9"
+          },
+          {
+              "id": "nm0000849",
+              "name": "Javier Bardem",
+              "_id": "6349c6432772ab2f3fefb7aa"
+          },
+          {
+              "id": "nm1058940",
+              "name": "Scoot McNairy",
+              "_id": "6349c6432772ab2f3fefb7ab"
+          },
+          {
+              "id": "nm1443368",
+              "name": "Brett Gelman",
+              "_id": "6349c6432772ab2f3fefb7ac"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0330347",
+              "name": "Josh Gordon",
+              "_id": "6349c6432772ab2f3fefb7ad"
+          },
+          {
+              "id": "nm0817447",
+              "name": "Will Speck",
+              "_id": "6349c6432772ab2f3fefb7ae"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7af",
+      "title": "Kantara",
+      "releaseState": "30 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQyNGI5OWEtZjI1Yy00NDVjLWE4MTAtMzRlNzU1NzM2OGVkXkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_Ratio0.6890_AL_.jpg",
+      "runtimeMins": "148",
+      "plot": "It involves culture of Kambla and Bhootha Kola. A human and nature conflict where Shiva is the rebellion who works against nature. A loop leads to war between villagers and evil forces. Will he able to replace peace in the village?",
+      "imDbRating": "9.5",
+      "genres": "Action, Adventure, Drama",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb7b0"
+          },
+          {
+              "key": "Adventure",
+              "value": "Adventure",
+              "_id": "6349c6432772ab2f3fefb7b1"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb7b2"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm6142895",
+              "name": "Rishab Shetty",
+              "_id": "6349c6432772ab2f3fefb7b3"
+          },
+          {
+              "id": "nm11354885",
+              "name": "Sapthami Gowda",
+              "_id": "6349c6432772ab2f3fefb7b4"
+          },
+          {
+              "id": "nm3132784",
+              "name": "Kishore Kumar G.",
+              "_id": "6349c6432772ab2f3fefb7b5"
+          },
+          {
+              "id": "nm5724719",
+              "name": "Achyuth Kumar",
+              "_id": "6349c6432772ab2f3fefb7b6"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm6142895",
+              "name": "Rishab Shetty",
+              "_id": "6349c6432772ab2f3fefb7b7"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7b8",
+      "title": "The Invitation (II) (2022)",
+      "releaseState": "26 Aug 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTk3YWEwOTYtYTFiOS00NjJiLWJiOTAtMTRkZDY1Y2M1MDIyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "105",
+      "plot": "A young woman is courted and swept off her feet, only to realize a gothic conspiracy is afoot.",
+      "imDbRating": "5.2",
+      "genres": "Horror, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb7b9"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb7ba"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm2812026",
+              "name": "Nathalie Emmanuel",
+              "_id": "6349c6432772ab2f3fefb7bb"
+          },
+          {
+              "id": "nm6015235",
+              "name": "Thomas Doherty",
+              "_id": "6349c6432772ab2f3fefb7bc"
+          },
+          {
+              "id": "nm0675730",
+              "name": "Sean Pertwee",
+              "_id": "6349c6432772ab2f3fefb7bd"
+          },
+          {
+              "id": "nm2369260",
+              "name": "Hugh Skinner",
+              "_id": "6349c6432772ab2f3fefb7be"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm3701612",
+              "name": "Jessica M. Thompson",
+              "_id": "6349c6432772ab2f3fefb7bf"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7c0",
+      "title": "Halloween Kills",
+      "releaseState": "15 Oct 2021",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2RmMGY2Y2UtNjA1NS00NGE4LThiNzItMmE1NTk5NzI5NmE0XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "105",
+      "plot": "Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror after they discover that he is still alive.",
+      "imDbRating": "5.5",
+      "genres": "Horror, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb7c1"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb7c2"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000130",
+              "name": "Jamie Lee Curtis",
+              "_id": "6349c6432772ab2f3fefb7c3"
+          },
+          {
+              "id": "nm0339460",
+              "name": "Judy Greer",
+              "_id": "6349c6432772ab2f3fefb7c4"
+          },
+          {
+              "id": "nm5506858",
+              "name": "Andi Matichak",
+              "_id": "6349c6432772ab2f3fefb7c5"
+          },
+          {
+              "id": "nm0183921",
+              "name": "James Jude Courtney",
+              "_id": "6349c6432772ab2f3fefb7c6"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0337773",
+              "name": "David Gordon Green",
+              "_id": "6349c6432772ab2f3fefb7c7"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7c8",
+      "title": "Vikram Vedha",
+      "releaseState": "21 Jul 2017",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "147",
+      "plot": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
+      "imDbRating": "8.3",
+      "genres": "Action, Crime, Drama",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb7c9"
+          },
+          {
+              "key": "Crime",
+              "value": "Crime",
+              "_id": "6349c6432772ab2f3fefb7ca"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb7cb"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0534856",
+              "name": "Madhavan",
+              "_id": "6349c6432772ab2f3fefb7cc"
+          },
+          {
+              "id": "nm4043111",
+              "name": "Vijay Sethupathi",
+              "_id": "6349c6432772ab2f3fefb7cd"
+          },
+          {
+              "id": "nm7744845",
+              "name": "Shraddha Srinath",
+              "_id": "6349c6432772ab2f3fefb7ce"
+          },
+          {
+              "id": "nm6453091",
+              "name": "Kathir",
+              "_id": "6349c6432772ab2f3fefb7cf"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2566836",
+              "name": "Gayatri",
+              "_id": "6349c6432772ab2f3fefb7d0"
+          },
+          {
+              "id": "nm2575525",
+              "name": "Pushkar",
+              "_id": "6349c6432772ab2f3fefb7d1"
+          },
+          {
+              "id": "nm13732463",
+              "name": "Gowtham Selvaraj",
+              "_id": "6349c6432772ab2f3fefb7d2"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7d3",
+      "title": "Minions: The Rise of Gru",
+      "releaseState": "01 Jul 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDQyODUwM2MtNzA0YS00ZjdmLTgzMjItZWRjN2YyYWE5ZTNjXkEyXkFqcGdeQXVyMTI2MzY1MjM1._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "87",
+      "plot": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+      "imDbRating": "6.6",
+      "genres": "Animation, Adventure, Comedy",
+      "genreList": [
+          {
+              "key": "Animation",
+              "value": "Animation",
+              "_id": "6349c6432772ab2f3fefb7d4"
+          },
+          {
+              "key": "Adventure",
+              "value": "Adventure",
+              "_id": "6349c6432772ab2f3fefb7d5"
+          },
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb7d6"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0136797",
+              "name": "Steve Carell",
+              "_id": "6349c6432772ab2f3fefb7d7"
+          },
+          {
+              "id": "nm1853544",
+              "name": "Pierre Coffin",
+              "_id": "6349c6432772ab2f3fefb7d8"
+          },
+          {
+              "id": "nm0000273",
+              "name": "Alan Arkin",
+              "_id": "6349c6432772ab2f3fefb7d9"
+          },
+          {
+              "id": "nm0378245",
+              "name": "Taraji P. Henson",
+              "_id": "6349c6432772ab2f3fefb7da"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0049633",
+              "name": "Kyle Balda",
+              "_id": "6349c6432772ab2f3fefb7db"
+          },
+          {
+              "id": "nm1556070",
+              "name": "Brad Ableson",
+              "_id": "6349c6432772ab2f3fefb7dc"
+          },
+          {
+              "id": "nm3646390",
+              "name": "Jonathan del Val",
+              "_id": "6349c6432772ab2f3fefb7dd"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7de",
+      "title": "Halloween (I) (2018)",
+      "releaseState": "19 Oct 2018",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "106",
+      "plot": "Laurie Strode confronts her long-time foe, Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+      "imDbRating": "6.5",
+      "genres": "Crime, Horror, Thriller",
+      "genreList": [
+          {
+              "key": "Crime",
+              "value": "Crime",
+              "_id": "6349c6432772ab2f3fefb7df"
+          },
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb7e0"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb7e1"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000130",
+              "name": "Jamie Lee Curtis",
+              "_id": "6349c6432772ab2f3fefb7e2"
+          },
+          {
+              "id": "nm0339460",
+              "name": "Judy Greer",
+              "_id": "6349c6432772ab2f3fefb7e3"
+          },
+          {
+              "id": "nm5506858",
+              "name": "Andi Matichak",
+              "_id": "6349c6432772ab2f3fefb7e4"
+          },
+          {
+              "id": "nm0183921",
+              "name": "James Jude Courtney",
+              "_id": "6349c6432772ab2f3fefb7e5"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0337773",
+              "name": "David Gordon Green",
+              "_id": "6349c6432772ab2f3fefb7e6"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7e7",
+      "title": "Moonage Daydream",
+      "releaseState": "15 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU1YjhlNGQtYjViMC00OTZjLTgyYjMtODhmMTIwNGQ4MTQ0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6794_AL_.jpg",
+      "runtimeMins": "135",
+      "plot": "A cinematic odyssey exploring David Bowie's creative and musical journey. From visionary filmmaker Brett Morgen, and sanctioned by the Bowie estate.",
+      "imDbRating": "8",
+      "genres": "Documentary, Music",
+      "genreList": [
+          {
+              "key": "Documentary",
+              "value": "Documentary",
+              "_id": "6349c6432772ab2f3fefb7e8"
+          },
+          {
+              "key": "Music",
+              "value": "Music",
+              "_id": "6349c6432772ab2f3fefb7e9"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000309",
+              "name": "David Bowie",
+              "_id": "6349c6432772ab2f3fefb7ea"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0605137",
+              "name": "Brett Morgen",
+              "_id": "6349c6432772ab2f3fefb7eb"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7ec",
+      "title": "The Good House",
+      "releaseState": "30 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDNmYjBhNWQtZDUyYS00ZWUzLTkyYWYtMDhkNTMwZWFjNDZiXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "104",
+      "plot": "Life for New England realtor Hildy Good begins to unravel when she hooks up with an old flame of hers from New York. Based on Ann Leary's 'The Good House.'",
+      "imDbRating": "7",
+      "genres": "Comedy, Drama",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb7ed"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb7ee"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000244",
+              "name": "Sigourney Weaver",
+              "_id": "6349c6432772ab2f3fefb7ef"
+          },
+          {
+              "id": "nm0000177",
+              "name": "Kevin Kline",
+              "_id": "6349c6432772ab2f3fefb7f0"
+          },
+          {
+              "id": "nm1072555",
+              "name": "Morena Baccarin",
+              "_id": "6349c6432772ab2f3fefb7f1"
+          },
+          {
+              "id": "nm3008739",
+              "name": "Rob Delaney",
+              "_id": "6349c6432772ab2f3fefb7f2"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0285379",
+              "name": "Maya Forbes",
+              "_id": "6349c6432772ab2f3fefb7f3"
+          },
+          {
+              "id": "nm0938645",
+              "name": "Wallace Wolodarsky",
+              "_id": "6349c6432772ab2f3fefb7f4"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7f5",
+      "title": "Godfather",
+      "releaseState": "05 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmIxMjM2N2MtYjJiMC00NDNmLWExMDEtZjYyYjIyNjMzMDEwXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "157",
+      "plot": "After the death of a political leader, a mysterious man steps in to ascend the throne.",
+      "imDbRating": "6.1",
+      "genres": "Action, Crime, Drama",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb7f6"
+          },
+          {
+              "key": "Crime",
+              "value": "Crime",
+              "_id": "6349c6432772ab2f3fefb7f7"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb7f8"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0158112",
+              "name": "Chiranjeevi",
+              "_id": "6349c6432772ab2f3fefb7f9"
+          },
+          {
+              "id": "nm0006795",
+              "name": "Salman Khan",
+              "_id": "6349c6432772ab2f3fefb7fa"
+          },
+          {
+              "id": "nm1521381",
+              "name": "Nayanthara",
+              "_id": "6349c6432772ab2f3fefb7fb"
+          },
+          {
+              "id": "nm8488982",
+              "name": "Satyadev Kancharana",
+              "_id": "6349c6432772ab2f3fefb7fc"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1001345",
+              "name": "Mohan Raja",
+              "_id": "6349c6432772ab2f3fefb7fd"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb7fe",
+      "title": "To Leslie",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmNiMGRkYmUtYjI4MC00ZDg4LTk3YjktNTczNzEzYmExMjAwXkEyXkFqcGdeQXVyMTQ4MTk0NjYx._V1_Ratio0.6986_AL_.jpg",
+      "runtimeMins": "119",
+      "plot": "Inspired by true events. A West Texas single mother wins the lottery and squanders it just as fast, leaving behind a world of heartbreak. Years later, with her charm running out and nowhere to go, she fights to rebuild her life and find redemption.",
+      "imDbRating": "7",
+      "genres": "Drama",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb7ff"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0005049",
+              "name": "Allison Janney",
+              "_id": "6349c6432772ab2f3fefb800"
+          },
+          {
+              "id": "nm2057859",
+              "name": "Andrea Riseborough",
+              "_id": "6349c6432772ab2f3fefb801"
+          },
+          {
+              "id": "nm0549505",
+              "name": "Marc Maron",
+              "_id": "6349c6432772ab2f3fefb802"
+          },
+          {
+              "id": "nm2809645",
+              "name": "Matt Lauria",
+              "_id": "6349c6432772ab2f3fefb803"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2385621",
+              "name": "Michael Morris",
+              "_id": "6349c6432772ab2f3fefb804"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb805",
+      "title": "Goodbye (I) (2022)",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNjMWIyMTMtMGU3Yi00MmJmLWE5MzMtZGM5YzlhM2JlYWI3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.7943_AL_.jpg",
+      "runtimeMins": "130",
+      "plot": "A heartwarming story of the Bhalla family that depicts their journey of grief and self-discovery after they suffer the loss of their loved one.",
+      "imDbRating": "8.3",
+      "genres": "Comedy, Drama, Family",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb806"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb807"
+          },
+          {
+              "key": "Family",
+              "value": "Family",
+              "_id": "6349c6432772ab2f3fefb808"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm11035978",
+              "name": "Abhishekh Khan",
+              "_id": "6349c6432772ab2f3fefb809"
+          },
+          {
+              "id": "nm5675978",
+              "name": "Elli Avrram",
+              "_id": "6349c6432772ab2f3fefb80a"
+          },
+          {
+              "id": "nm0000821",
+              "name": "Amitabh Bachchan",
+              "_id": "6349c6432772ab2f3fefb80b"
+          },
+          {
+              "id": "nm0050187",
+              "name": "Arun Bali",
+              "_id": "6349c6432772ab2f3fefb80c"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2134474",
+              "name": "Vikas Bahl",
+              "_id": "6349c6432772ab2f3fefb80d"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb80e",
+      "title": "Pan's Labyrinth",
+      "releaseState": "19 Jan 2007",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "118",
+      "plot": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+      "imDbRating": "8.2",
+      "genres": "Drama, Fantasy, War",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb80f"
+          },
+          {
+              "key": "Fantasy",
+              "value": "Fantasy",
+              "_id": "6349c6432772ab2f3fefb810"
+          },
+          {
+              "key": "War",
+              "value": "War",
+              "_id": "6349c6432772ab2f3fefb811"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm1419440",
+              "name": "Ivana Baquero",
+              "_id": "6349c6432772ab2f3fefb812"
+          },
+          {
+              "id": "nm0317725",
+              "name": "Ariadna Gil",
+              "_id": "6349c6432772ab2f3fefb813"
+          },
+          {
+              "id": "nm0530365",
+              "name": "Sergi López",
+              "_id": "6349c6432772ab2f3fefb814"
+          },
+          {
+              "id": "nm0893941",
+              "name": "Maribel Verdú",
+              "_id": "6349c6432772ab2f3fefb815"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0868219",
+              "name": "Guillermo del Toro",
+              "_id": "6349c6432772ab2f3fefb816"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb817",
+      "title": "Grease",
+      "releaseState": "16 Jun 1978",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmUyMDEyOTgtZmUwOS00NTdkLThlNzctNTM1ODQ4M2VhMjdhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "110",
+      "plot": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
+      "imDbRating": "7.2",
+      "genres": "Comedy, Musical, Romance",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb818"
+          },
+          {
+              "key": "Musical",
+              "value": "Musical",
+              "_id": "6349c6432772ab2f3fefb819"
+          },
+          {
+              "key": "Romance",
+              "value": "Romance",
+              "_id": "6349c6432772ab2f3fefb81a"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000237",
+              "name": "John Travolta",
+              "_id": "6349c6432772ab2f3fefb81b"
+          },
+          {
+              "id": "nm0000556",
+              "name": "Olivia Newton-John",
+              "_id": "6349c6432772ab2f3fefb81c"
+          },
+          {
+              "id": "nm0000330",
+              "name": "Stockard Channing",
+              "_id": "6349c6432772ab2f3fefb81d"
+          },
+          {
+              "id": "nm0001063",
+              "name": "Jeff Conaway",
+              "_id": "6349c6432772ab2f3fefb81e"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0459170",
+              "name": "Randal Kleiser",
+              "_id": "6349c6432772ab2f3fefb81f"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb820",
+      "title": "The Storied Life of A.J. Fikry",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVkZDBlZTctZDYwNS00YjJkLTk3YTQtOWQwZjJkNGVlY2QzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "105",
+      "plot": "A.J. Fikry's wife has died, his bookstore is in trouble, and now his prized rare edition of Poe poems has been stolen. However, when a mysterious package appears, its arrival gives him the chance to start his life over and see things anew.",
+      "imDbRating": "7.4",
+      "genres": "Comedy, Drama",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb821"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb822"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0376716",
+              "name": "Christina Hendricks",
+              "_id": "6349c6432772ab2f3fefb823"
+          },
+          {
+              "id": "nm1423955",
+              "name": "Lucy Hale",
+              "_id": "6349c6432772ab2f3fefb824"
+          },
+          {
+              "id": "nm2471798",
+              "name": "Kunal Nayyar",
+              "_id": "6349c6432772ab2f3fefb825"
+          },
+          {
+              "id": "nm0000274",
+              "name": "David Arquette",
+              "_id": "6349c6432772ab2f3fefb826"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0134396",
+              "name": "Hans Canosa",
+              "_id": "6349c6432772ab2f3fefb827"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb828",
+      "title": "The Legend of Maula Jatt",
+      "releaseState": "13 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWMwODY3MzYtYmY2MC00MDMzLWI0ZTgtYTlhODNmNWQzYmUxXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_Ratio0.6986_AL_.jpg",
+      "runtimeMins": "153",
+      "plot": "Maula Jatt, a fierce prizefighter with a tortured past seeks vengeance against his arch nemesis Noori Natt, the most feared warrior in the land of Punjab.",
+      "imDbRating": "9.1",
+      "genres": "Action, Drama, Fantasy",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb829"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb82a"
+          },
+          {
+              "key": "Fantasy",
+              "value": "Fantasy",
+              "_id": "6349c6432772ab2f3fefb82b"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm2717565",
+              "name": "Fawad Khan",
+              "_id": "6349c6432772ab2f3fefb82c"
+          },
+          {
+              "id": "nm4273857",
+              "name": "Hamza Ali Abbasi",
+              "_id": "6349c6432772ab2f3fefb82d"
+          },
+          {
+              "id": "nm4493060",
+              "name": "Mahira Khan",
+              "_id": "6349c6432772ab2f3fefb82e"
+          },
+          {
+              "id": "nm3892419",
+              "name": "Humaima Malik",
+              "_id": "6349c6432772ab2f3fefb82f"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2850440",
+              "name": "Bilal Lashari",
+              "_id": "6349c6432772ab2f3fefb830"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb831",
+      "title": "The Ghost",
+      "releaseState": "05 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWU3OGFkMWYtNTU4OC00NzQwLWE3MmMtMGQyOGZhODc0MDZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "138",
+      "plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "imDbRating": "6.8",
+      "genres": "Action, Thriller",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb832"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb833"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0015459",
+              "name": "Nagarjuna Akkineni",
+              "_id": "6349c6432772ab2f3fefb834"
+          },
+          {
+              "id": "nm1472197",
+              "name": "Manish Chaudhari",
+              "_id": "6349c6432772ab2f3fefb835"
+          },
+          {
+              "id": "nm2978161",
+              "name": "Sonal Chauhan",
+              "_id": "6349c6432772ab2f3fefb836"
+          },
+          {
+              "id": "nm10450056",
+              "name": "Keith Dallison",
+              "_id": "6349c6432772ab2f3fefb837"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm4149056",
+              "name": "Praveen Sattaru",
+              "_id": "6349c6432772ab2f3fefb838"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb839",
+      "title": "Don't Look at the Demon",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTU4OGI0MTAtYTNlYS00ZTU3LTliZGQtOTcwNGFjM2QxZGI1XkEyXkFqcGdeQXVyNTA2MDM0MTY@._V1_Ratio0.7081_AL_.jpg",
+      "runtimeMins": "93",
+      "plot": "A team of paranormal investigators head for the highlands of Fraser's Hill, Malaysia, to probe a series of alleged disturbances at a house with a dark past.",
+      "imDbRating": "5.3",
+      "genres": "Horror",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb83a"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0067768",
+              "name": "Jordan Belfi",
+              "_id": "6349c6432772ab2f3fefb83b"
+          },
+          {
+              "id": "nm6086432",
+              "name": "Ashlyn Boots",
+              "_id": "6349c6432772ab2f3fefb83c"
+          },
+          {
+              "id": "nm1715257",
+              "name": "Malin Crépin",
+              "_id": "6349c6432772ab2f3fefb83d"
+          },
+          {
+              "id": "nm6170168",
+              "name": "Harris Dickinson",
+              "_id": "6349c6432772ab2f3fefb83e"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm3471048",
+              "name": "Brando Lee",
+              "_id": "6349c6432772ab2f3fefb83f"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb840",
+      "title": "Hotel Transylvania 2",
+      "releaseState": "25 Sep 2015",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGVhZWM0YTEtM2YxYy00YWUzLWI1YWQtNjk5ZTRhNTJmM2VhXkEyXkFqcGdeQXVyNTk1MTAyODc@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "89",
+      "plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+      "imDbRating": "6.6",
+      "genres": "Animation, Adventure, Comedy",
+      "genreList": [
+          {
+              "key": "Animation",
+              "value": "Animation",
+              "_id": "6349c6432772ab2f3fefb841"
+          },
+          {
+              "key": "Adventure",
+              "value": "Adventure",
+              "_id": "6349c6432772ab2f3fefb842"
+          },
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb843"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0001191",
+              "name": "Adam Sandler",
+              "_id": "6349c6432772ab2f3fefb844"
+          },
+          {
+              "id": "nm1676221",
+              "name": "Andy Samberg",
+              "_id": "6349c6432772ab2f3fefb845"
+          },
+          {
+              "id": "nm1411125",
+              "name": "Selena Gomez",
+              "_id": "6349c6432772ab2f3fefb846"
+          },
+          {
+              "id": "nm0416673",
+              "name": "Kevin James",
+              "_id": "6349c6432772ab2f3fefb847"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0850733",
+              "name": "Genndy Tartakovsky",
+              "_id": "6349c6432772ab2f3fefb848"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb849",
+      "title": "Videodrome",
+      "releaseState": "04 Feb 1983",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzdlNDk0YTMtNWJjOS00NzhlLThiOTAtZDUyOWNkNDQ2NmU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "87",
+      "plot": "A programmer at a TV station that specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast.",
+      "imDbRating": "7.2",
+      "genres": "Horror, Sci-Fi, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb84a"
+          },
+          {
+              "key": "Sci-Fi",
+              "value": "Sci-Fi",
+              "_id": "6349c6432772ab2f3fefb84b"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb84c"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000249",
+              "name": "James Woods",
+              "_id": "6349c6432772ab2f3fefb84d"
+          },
+          {
+              "id": "nm0001323",
+              "name": "Debbie Harry",
+              "_id": "6349c6432772ab2f3fefb84e"
+          },
+          {
+              "id": "nm0810500",
+              "name": "Sonja Smits",
+              "_id": "6349c6432772ab2f3fefb84f"
+          },
+          {
+              "id": "nm0245356",
+              "name": "Peter Dvorsky",
+              "_id": "6349c6432772ab2f3fefb850"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0000343",
+              "name": "David Cronenberg",
+              "_id": "6349c6432772ab2f3fefb851"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb852",
+      "title": "Project Wolf Hunting",
+      "releaseState": "21 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYxNjcwMGUtNzdmMy00ZmEwLWI4MWEtMWZkYzNiY2E2NDJhXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_Ratio0.6986_AL_.jpg",
+      "runtimeMins": "122",
+      "plot": "Follows dangerous criminals on a cargo ship who are transported from the Philippines to South Korea, as they unleash a sinister force after an escape attempt leads to a riot.",
+      "imDbRating": "6.6",
+      "genres": "Action, Crime, Sci-Fi",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb853"
+          },
+          {
+              "key": "Crime",
+              "value": "Crime",
+              "_id": "6349c6432772ab2f3fefb854"
+          },
+          {
+              "key": "Sci-Fi",
+              "value": "Sci-Fi",
+              "_id": "6349c6432772ab2f3fefb855"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm5364609",
+              "name": "Seo In-Guk",
+              "_id": "6349c6432772ab2f3fefb856"
+          },
+          {
+              "id": "nm8589353",
+              "name": "Dong-Yoon Jang",
+              "_id": "6349c6432772ab2f3fefb857"
+          },
+          {
+              "id": "nm1753862",
+              "name": "Dong-il Sung",
+              "_id": "6349c6432772ab2f3fefb858"
+          },
+          {
+              "id": "nm1041146",
+              "name": "Park Ho-San",
+              "_id": "6349c6432772ab2f3fefb859"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2341549",
+              "name": "Hongsun Kim",
+              "_id": "6349c6432772ab2f3fefb85a"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb85b",
+      "title": "The Curse of La Llorona",
+      "releaseState": "19 Apr 2019",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "93",
+      "plot": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm.",
+      "imDbRating": "5.2",
+      "genres": "Horror, Mystery, Thriller",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb85c"
+          },
+          {
+              "key": "Mystery",
+              "value": "Mystery",
+              "_id": "6349c6432772ab2f3fefb85d"
+          },
+          {
+              "key": "Thriller",
+              "value": "Thriller",
+              "_id": "6349c6432772ab2f3fefb85e"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0004802",
+              "name": "Linda Cardellini",
+              "_id": "6349c6432772ab2f3fefb85f"
+          },
+          {
+              "id": "nm0190441",
+              "name": "Raymond Cruz",
+              "_id": "6349c6432772ab2f3fefb860"
+          },
+          {
+              "id": "nm0892383",
+              "name": "Patricia Velasquez",
+              "_id": "6349c6432772ab2f3fefb861"
+          },
+          {
+              "id": "nm1581544",
+              "name": "Marisol Ramirez",
+              "_id": "6349c6432772ab2f3fefb862"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1980431",
+              "name": "Michael Chaves",
+              "_id": "6349c6432772ab2f3fefb863"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb864",
+      "title": "Sanctioning Evil",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcyNDRjMjQtNDI2Mi00MmMzLTk4MjktZTNkOTI0OWZjN2MwXkEyXkFqcGdeQXVyNzQzMDgyNQ@@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "110",
+      "plot": "After being discharged from the military, Sgt. Barnes finds his way back into society via a charismatic politician with a covert plan to eliminate an underground criminal element.",
+      "imDbRating": "4.6",
+      "genres": "Action",
+      "genreList": [
+          {
+              "key": "Action",
+              "value": "Action",
+              "_id": "6349c6432772ab2f3fefb865"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm2090702",
+              "name": "Zach McGowan",
+              "_id": "6349c6432772ab2f3fefb866"
+          },
+          {
+              "id": "nm0543383",
+              "name": "Taryn Manning",
+              "_id": "6349c6432772ab2f3fefb867"
+          },
+          {
+              "id": "nm1267261",
+              "name": "Tobias Truvillion",
+              "_id": "6349c6432772ab2f3fefb868"
+          },
+          {
+              "id": "nm0850387",
+              "name": "Chris Tardio",
+              "_id": "6349c6432772ab2f3fefb869"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm0636940",
+              "name": "Ante Novakovic",
+              "_id": "6349c6432772ab2f3fefb86a"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb86b",
+      "title": "Signs of Love",
+      "releaseState": "25 Jun 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhiMmIwMDQtZGJiZS00MWNkLWJhNmUtZmY2NDM1MDA4ZWY1XkEyXkFqcGdeQXVyMTU3ODIyNzg@._V1_Ratio0.7273_AL_.jpg",
+      "runtimeMins": "98",
+      "plot": "A young man struggling for a good life meets a deaf girl from a well-off nearby family, he suddenly sees hope for love, and a better life but only if he can escape the predicament of the streets and the influence of his older sister.",
+      "imDbRating": "8",
+      "genres": "Drama, Romance",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb86c"
+          },
+          {
+              "key": "Romance",
+              "value": "Romance",
+              "_id": "6349c6432772ab2f3fefb86d"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0000275",
+              "name": "Rosanna Arquette",
+              "_id": "6349c6432772ab2f3fefb86e"
+          },
+          {
+              "id": "nm2365157",
+              "name": "Dylan Penn",
+              "_id": "6349c6432772ab2f3fefb86f"
+          },
+          {
+              "id": "nm1813421",
+              "name": "Hopper Penn",
+              "_id": "6349c6432772ab2f3fefb870"
+          },
+          {
+              "id": "nm0828840",
+              "name": "Wass Stevens",
+              "_id": "6349c6432772ab2f3fefb871"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm3442324",
+              "name": "Clarence Fuller",
+              "_id": "6349c6432772ab2f3fefb872"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb873",
+      "title": "What We Leave Behind",
+      "releaseState": "30 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzkzMGE4ZWEtNTg1NS00OTg2LWJiNGMtZGM0YzhiNmUwYmM0XkEyXkFqcGdeQXVyMTY1NTI2MDk@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "71",
+      "plot": "After a lifetime of bus rides to the US to visit his children, Julián quietly starts building a house in rural Mexico. In filming his work, his granddaughter crafts a personal and poetic love letter to him and his homeland.",
+      "imDbRating": "7.5",
+      "genres": "Documentary",
+      "genreList": [
+          {
+              "key": "Documentary",
+              "value": "Documentary",
+              "_id": "6349c6432772ab2f3fefb874"
+          }
+      ],
+      "starList": [],
+      "directorList": [
+          {
+              "id": "nm3016681",
+              "name": "Iliana Sosa",
+              "_id": "6349c6432772ab2f3fefb875"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb876",
+      "title": "Babe Bhangra Paunde Ne",
+      "releaseState": "05 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWMzZjg2MTYtYTNhYi00YjBjLTlhMzMtYzY5NWQxYTA0NDQwXkEyXkFqcGdeQXVyMTA2MDM4OTQ2._V1_Ratio0.7943_AL_.jpg",
+      "runtimeMins": "145",
+      "plot": "From selling underwear to adopting a father for insurance benefits, Diljit will stop at nothing for him and his friends to become the three richest men in the world.",
+      "imDbRating": "7.4",
+      "genres": "Comedy",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb877"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm2575601",
+              "name": "Sohail Ahmed",
+              "_id": "6349c6432772ab2f3fefb878"
+          },
+          {
+              "id": "nm5679766",
+              "name": "Gurpreet Bhangu",
+              "_id": "6349c6432772ab2f3fefb879"
+          },
+          {
+              "id": "nm4355584",
+              "name": "Devinder Dillon",
+              "_id": "6349c6432772ab2f3fefb87a"
+          },
+          {
+              "id": "nm4362492",
+              "name": "Diljit Dosanjh",
+              "_id": "6349c6432772ab2f3fefb87b"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm5500664",
+              "name": "Amarjit Singh Saron",
+              "_id": "6349c6432772ab2f3fefb87c"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb87d",
+      "title": "Cuando Sea Joven",
+      "releaseState": "15 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjFiOTAzY2UtYjU4Ni00NzIwLWIzMjctN2Q2MjE2NmRkZjRkXkEyXkFqcGdeQXVyMTQ4NzA1OTgy._V1_Ratio0.6986_AL_.jpg",
+      "runtimeMins": "120",
+      "plot": "70-year-old Malena gets a second chance at life when she magically turns into her 22-year-old self.",
+      "imDbRating": "7.8",
+      "genres": "Comedy",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb87e"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0145708",
+              "name": "Verónica Castro",
+              "_id": "6349c6432772ab2f3fefb87f"
+          },
+          {
+              "id": "nm0243192",
+              "name": "Natasha Dupeyrón",
+              "_id": "6349c6432772ab2f3fefb880"
+          },
+          {
+              "id": "nm7174356",
+              "name": "Daniel Garcia",
+              "_id": "6349c6432772ab2f3fefb881"
+          },
+          {
+              "id": "nm0406393",
+              "name": "Manuel 'Flaco' Ibáñez",
+              "_id": "6349c6432772ab2f3fefb882"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2041883",
+              "name": "Raúl Martínez",
+              "_id": "6349c6432772ab2f3fefb883"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb884",
+      "title": "Possession",
+      "releaseState": "07 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BODZmMWQ1NWQtMWQ0OS00ZWUyLTk5OGUtNzk2YzFkMzMxNDM0XkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "104",
+      "plot": "A priest has been tasked with deciding the location of a new church for the local mining company, which reveals itself to be on top of an old Sami burial ground. After removing the remains, the dead come alive and haunt the settlers.",
+      "imDbRating": "5",
+      "genres": "Horror",
+      "genreList": [
+          {
+              "key": "Horror",
+              "value": "Horror",
+              "_id": "6349c6432772ab2f3fefb885"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0845297",
+              "name": "Jan Sælid",
+              "_id": "6349c6432772ab2f3fefb886"
+          },
+          {
+              "id": "nm11912328",
+              "name": "Eva Nergård",
+              "_id": "6349c6432772ab2f3fefb887"
+          },
+          {
+              "id": "nm8175408",
+              "name": "Tarjei Sandvik Moe",
+              "_id": "6349c6432772ab2f3fefb888"
+          },
+          {
+              "id": "nm9115779",
+              "name": "Anna Filippa Hjarne",
+              "_id": "6349c6432772ab2f3fefb889"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm4104149",
+              "name": "Henrik Martin Dahlsbakken",
+              "_id": "6349c6432772ab2f3fefb88a"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb88b",
+      "title": "Swathi Muthyam",
+      "releaseState": "05 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc2MTQ0ZDQtNDczOS00OWYwLWJjMDEtZDdmMmZmYTZmNjQ0XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_Ratio0.6986_AL_.jpg",
+      "runtimeMins": "122",
+      "plot": "A young man who is innocent and pure at heart celebrates life and love while his thoughts about marriage evolve.",
+      "imDbRating": "7",
+      "genres": "Comedy, Drama, Romance",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb88c"
+          },
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb88d"
+          },
+          {
+              "key": "Romance",
+              "value": "Romance",
+              "_id": "6349c6432772ab2f3fefb88e"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm5642028",
+              "name": "Bellamkonda Ganesh Babu",
+              "_id": "6349c6432772ab2f3fefb88f"
+          },
+          {
+              "id": "nm9103031",
+              "name": "Varsha Bollamma",
+              "_id": "6349c6432772ab2f3fefb890"
+          },
+          {
+              "id": "nm1350569",
+              "name": "Harshavardhan",
+              "_id": "6349c6432772ab2f3fefb891"
+          },
+          {
+              "id": "nm3808948",
+              "name": "Vennela Kishore",
+              "_id": "6349c6432772ab2f3fefb892"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm11750376",
+              "name": "Lakshman K Krishna",
+              "_id": "6349c6432772ab2f3fefb893"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb894",
+      "title": "Life Is Beautiful",
+      "releaseState": "28 Sep 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDkwMDg0N2YtMTBlNS00ZGExLTkwNDEtNDI2YzViOGRmYjY5XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6986_AL_.jpg",
+      "runtimeMins": "122",
+      "plot": "A musical drama about a wife who asks her husband to help her find her childhood sweetheart as a birthday present. Though reluctant, her husband's only choice is to set out on this journey with her.",
+      "imDbRating": "7.7",
+      "genres": "Drama, Musical, Romance",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb895"
+          },
+          {
+              "key": "Musical",
+              "value": "Musical",
+              "_id": "6349c6432772ab2f3fefb896"
+          },
+          {
+              "key": "Romance",
+              "value": "Romance",
+              "_id": "6349c6432772ab2f3fefb897"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm11239285",
+              "name": "Freya Fox",
+              "_id": "6349c6432772ab2f3fefb898"
+          },
+          {
+              "id": "nm3789160",
+              "name": "Seung-wan Kang",
+              "_id": "6349c6432772ab2f3fefb899"
+          },
+          {
+              "id": "nm3237628",
+              "name": "Won Hee Lee",
+              "_id": "6349c6432772ab2f3fefb89a"
+          },
+          {
+              "id": "nm9186885",
+              "name": "Seong-wu Ong",
+              "_id": "6349c6432772ab2f3fefb89b"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm8509498",
+              "name": "Kook-Hee Choi",
+              "_id": "6349c6432772ab2f3fefb89c"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb89d",
+      "title": "Fadel & Neama",
+      "releaseState": "05 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjlhZWUxZjEtZmZmMi00YjMyLWI2YTItNjhmYmI4MzBhOWMzXkEyXkFqcGdeQXVyMTI1OTkzMzQ5._V1_Ratio0.7273_AL_.jpg",
+      "runtimeMins": "105",
+      "plot": "From the producers of Waafet Reggaala - Fadl and Naema are an innocent couple that run a food truck business. Farouk, a drug dealer, dupes them into transporting his goods while convincing ... See full summary",
+      "imDbRating": "5.9",
+      "genres": "Comedy",
+      "genreList": [
+          {
+              "key": "Comedy",
+              "value": "Comedy",
+              "_id": "6349c6432772ab2f3fefb89e"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0444324",
+              "name": "Maged El-Kidwani",
+              "_id": "6349c6432772ab2f3fefb89f"
+          },
+          {
+              "id": "nm0754906",
+              "name": "Hind Sabri",
+              "_id": "6349c6432772ab2f3fefb8a0"
+          },
+          {
+              "id": "nm10007653",
+              "name": "Yasmina El-Abd",
+              "_id": "6349c6432772ab2f3fefb8a1"
+          },
+          {
+              "id": "nm4180051",
+              "name": "Sherief El Desouky",
+              "_id": "6349c6432772ab2f3fefb8a2"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1216773",
+              "name": "Rami Imam",
+              "_id": "6349c6432772ab2f3fefb8a3"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb8a4",
+      "title": "The Great Movement",
+      "releaseState": "30 Mar 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjk3ZTJlNjktMGRlNy00MTFkLTk2YjItMWFlYmIxMzZhNGY1XkEyXkFqcGdeQXVyNjMwMTY3Nzg@._V1_Ratio0.7464_AL_.jpg",
+      "runtimeMins": "85",
+      "plot": "A symphony of the city in the heights, the illness of a worker, the nightmare and his redemption.",
+      "imDbRating": "6.6",
+      "genres": "Drama",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb8a5"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm12786533",
+              "name": "Max Bautista Uchasara",
+              "_id": "6349c6432772ab2f3fefb8a6"
+          },
+          {
+              "id": "nm12896230",
+              "name": "Julio César Ticona",
+              "_id": "6349c6432772ab2f3fefb8a7"
+          },
+          {
+              "id": "nm8377911",
+              "name": "Israel Hurtado",
+              "_id": "6349c6432772ab2f3fefb8a8"
+          },
+          {
+              "id": "nm12896229",
+              "name": "Gustavo Milán Ticona",
+              "_id": "6349c6432772ab2f3fefb8a9"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm4576903",
+              "name": "Kiro Russo",
+              "_id": "6349c6432772ab2f3fefb8aa"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb8ab",
+      "title": "Know Your Place",
+      "releaseState": "17 Apr 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUyYmUyNGEtZjFhYy00NDRhLWI3MDUtMjRlZTNiOGU1ODJkXkEyXkFqcGdeQXVyMTgwMzg0NDA@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "118",
+      "plot": "Amidst the landscape of a transforming city, a young Eritrean-American boy confronts the realities of change and loss.",
+      "imDbRating": "9",
+      "genres": "Drama",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb8ac"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm12867390",
+              "name": "Joseph Smith",
+              "_id": "6349c6432772ab2f3fefb8ad"
+          },
+          {
+              "id": "nm12867391",
+              "name": "Natnael Mebrahtu",
+              "_id": "6349c6432772ab2f3fefb8ae"
+          },
+          {
+              "id": "nm13084831",
+              "name": "Selamawit Gebresus",
+              "_id": "6349c6432772ab2f3fefb8af"
+          },
+          {
+              "id": "nm13643918",
+              "name": "Haileselassie Kidane",
+              "_id": "6349c6432772ab2f3fefb8b0"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm2431970",
+              "name": "Zia Mohajerjasbi",
+              "_id": "6349c6432772ab2f3fefb8b1"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb8b2",
+      "title": "Freedom on Fire: Ukraine's Fight for Freedom",
+      "releaseState": "08 Oct 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjliMGFkMWUtN2Y0MC00OGZjLWJkMDgtODRjZTg4ZTdhYzk4XkEyXkFqcGdeQXVyMTc5OTQ1Mg@@._V1_Ratio0.6794_AL_.jpg",
+      "runtimeMins": "114",
+      "plot": "The film depicts the horrible realities of this unprovoked war instigated by Vladimir Putin. It is an exploration of the courage of the Ukrainian people, fiercely determined to stand their ... See full summary",
+      "imDbRating": "7.7",
+      "genres": "Documentary",
+      "genreList": [
+          {
+              "key": "Documentary",
+              "value": "Documentary",
+              "_id": "6349c6432772ab2f3fefb8b3"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm13934659",
+              "name": "Nataliia Nagorna",
+              "_id": "6349c6432772ab2f3fefb8b4"
+          },
+          {
+              "id": "nm13934662",
+              "name": "Stanislav Stovban",
+              "_id": "6349c6432772ab2f3fefb8b5"
+          },
+          {
+              "id": "nm13934661",
+              "name": "Anna Zaitseva",
+              "_id": "6349c6432772ab2f3fefb8b6"
+          },
+          {
+              "id": "nm3305952",
+              "name": "Volodymyr Zelenskyy",
+              "_id": "6349c6432772ab2f3fefb8b7"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1017958",
+              "name": "Evgeny Afineevsky",
+              "_id": "6349c6432772ab2f3fefb8b8"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb8b9",
+      "title": "The Noise of Engines",
+      "releaseState": "15 Jul 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDlhNzgzMDMtZWVmYi00N2MzLTlkMjMtYTE3MWQxMDViOGI0XkEyXkFqcGdeQXVyOTgwMDc1ODk@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "79",
+      "plot": "Alexandre, an instructor at the Canadian customs college, will finds himself under surveillance by police investigators trying to get to the bottom of the sexually explicit drawings that have been troubling the town.",
+      "imDbRating": "6",
+      "genres": "Drama",
+      "genreList": [
+          {
+              "key": "Drama",
+              "value": "Drama",
+              "_id": "6349c6432772ab2f3fefb8ba"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0013203",
+              "name": "Alexandrine Agostini",
+              "_id": "6349c6432772ab2f3fefb8bb"
+          },
+          {
+              "id": "nm0064669",
+              "name": "Marc Beaupré",
+              "_id": "6349c6432772ab2f3fefb8bc"
+          },
+          {
+              "id": "nm4955425",
+              "name": "Tanja Björk",
+              "_id": "6349c6432772ab2f3fefb8bd"
+          },
+          {
+              "id": "nm1758899",
+              "name": "Arnmundur Ernst Björnsson",
+              "_id": "6349c6432772ab2f3fefb8be"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm4567276",
+              "name": "Philippe Grégoire",
+              "_id": "6349c6432772ab2f3fefb8bf"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb8c0",
+      "title": "Outta the Muck",
+      "releaseState": "23 Feb 2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjY4NTgxMWMtNWE4YS00OWM1LTgwMDQtOGMxYTM5NjRkNTRiXkEyXkFqcGdeQXVyNjE4OTU2MzY@._V1_Ratio0.7464_AL_.jpg",
+      "runtimeMins": "80",
+      "plot": "An astounding and intimate narrative of Black achievement focusing on the self-determined Dean family, seven generations of their history, and the resilient community of rural Pahokee, Florida.",
+      "imDbRating": "0",
+      "genres": "Documentary, Sport",
+      "genreList": [
+          {
+              "key": "Documentary",
+              "value": "Documentary",
+              "_id": "6349c6432772ab2f3fefb8c1"
+          },
+          {
+              "key": "Sport",
+              "value": "Sport",
+              "_id": "6349c6432772ab2f3fefb8c2"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm13539449",
+              "name": "Alvin Dean",
+              "_id": "6349c6432772ab2f3fefb8c3"
+          },
+          {
+              "id": "nm13539448",
+              "name": "Bridgett Dean",
+              "_id": "6349c6432772ab2f3fefb8c4"
+          },
+          {
+              "id": "nm13539450",
+              "name": "Elea Dean",
+              "_id": "6349c6432772ab2f3fefb8c5"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm5315454",
+              "name": "Ira McKinley",
+              "_id": "6349c6432772ab2f3fefb8c6"
+          },
+          {
+              "id": "nm3974232",
+              "name": "Bhawin Suchak",
+              "_id": "6349c6432772ab2f3fefb8c7"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  },
+  {
+      "_id": "6349c6432772ab2f3fefb8c8",
+      "title": "Kinder der Steine - Kinder der Mauer",
+      "releaseState": "24 Feb 2011",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA3MjkyMTU5ODVeQTJeQWpwZ15BbWU4MDY0NjI3NTcx._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "87",
+      "plot": "Add a Plot",
+      "imDbRating": "0",
+      "genres": "Documentary",
+      "genreList": [
+          {
+              "key": "Documentary",
+              "value": "Documentary",
+              "_id": "6349c6432772ab2f3fefb8c9"
+          }
+      ],
+      "starList": [
+          {
+              "id": "nm0352063",
+              "name": "Matthias Haase",
+              "_id": "6349c6432772ab2f3fefb8ca"
+          },
+          {
+              "id": "nm4332059",
+              "name": "Susanne Haeberlein",
+              "_id": "6349c6432772ab2f3fefb8cb"
+          }
+      ],
+      "directorList": [
+          {
+              "id": "nm1490111",
+              "name": "Robert Krieg",
+              "_id": "6349c6432772ab2f3fefb8cc"
+          },
+          {
+              "id": "nm2725941",
+              "name": "Monika Nolte",
+              "_id": "6349c6432772ab2f3fefb8cd"
+          }
+      ],
+      "favorite": false,
+      "__v": 0
+  }
+]
